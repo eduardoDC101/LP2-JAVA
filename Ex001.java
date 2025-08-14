@@ -1,3 +1,5 @@
+/*Sorteio de 3 números aleatórios (3 dados de 6 faces) e comparação de valores*/
+
 import java.util.Scanner;
 
 public class Main {
